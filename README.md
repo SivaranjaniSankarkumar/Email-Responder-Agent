@@ -16,7 +16,7 @@ This project is an **Automated Email Responder Agent** that classifies incoming 
 ## 🚀 Demo
 
 Live App: [Try it on Streamlit](https://email-responder-agent-j9un5dmuya5gdr9rskkpbr.streamlit.app/)
-Walkthrough Video: (https://vimeo.com/1081871584/84b1f073a4)
+Walkthrough Video: https://vimeo.com/1081871584/84b1f073a4
 
 
 
