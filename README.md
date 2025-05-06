@@ -1,10 +1,10 @@
-# AI Email Assistant 📨
+# Automated Email Responder Agent
 
 This project is an **Automated Email Responder Agent** that classifies incoming emails, generates smart professional replies, and refines them based on user feedback — powered by **Groq’s LLaMA3-70B** model and deployed using **Streamlit Cloud**.
 
 ---
 
-## 📌 Features
+##  Features
 
 - **Email Classification**: Automatically detects the type of email (e.g., complaint, meeting, follow-up).
 - **Smart Reply Generation**: Generates a professional and polite response tailored to the category.
@@ -19,7 +19,7 @@ Live App: [Try it on Streamlit](https://email-responder-agent-j9un5dmuya5gdr9rsk
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language Model**: `llama3-70b-8192` from Groq (OpenAI-compatible)
 - **Frontend**: Streamlit
@@ -28,7 +28,7 @@ Live App: [Try it on Streamlit](https://email-responder-agent-j9un5dmuya5gdr9rsk
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. User pastes email content.
 2. The app sends the content to Groq LLM for classification.
